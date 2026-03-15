@@ -1,1 +1,1 @@
-# qnetgan-molecule-generation
+This project explores graph GAN models for small-molecule drug generation.  Tools: - PyTorch - RDKit - NumPy  Results: Generated 300+ candidate molecules satisfying basic drug-likeness constraints.  Presented at IEEE Quantum Week 2024.
